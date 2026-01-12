@@ -14,15 +14,6 @@ It features a dark/light theme toggle, smooth animations, and a clean, professio
 - Skills section with icons and hover effects
 - Project showcase with tech stack tags and links
 
-## 🎨 Theme Customization
-
-The portfolio supports both dark and light themes.  
-Users can switch themes using the toggle in the navigation bar.
-
-### Customize Colors
-- Update CSS variables in the `:root` selector (dark theme)
-- Update variables in the `[data-theme="light"]` selector (light theme)
-- All colors are managed using CSS variables for easy customization
 
 ## 🔧 Technologies Used
 
